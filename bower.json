@@ -1,0 +1,9 @@
+{
+  "name": "trending-gorails",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "mithril": "~0.2.0",
+    "font-awesome": "~4.4.0",
+    "bootswatch": "~3.3.5+2"
+  }
+}
