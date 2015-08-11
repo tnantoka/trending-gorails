@@ -7,7 +7,7 @@ var Episode = function(data) {
 };
 
 Episode.list = function () {
-  return m.request({ method: 'GET', url: '/episodes.json', type: Episode, initialValue: [] });
+  return m.request({ method: 'GET', url: 'episodes.json', type: Episode, initialValue: [] });
 };
 
 var vm = {
