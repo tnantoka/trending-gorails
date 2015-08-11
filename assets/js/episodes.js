@@ -12,11 +12,9 @@ Episode.list = function () {
 
 var vm = {
   init: function() {
-          if (vm.initialized) {
-            return;
+          if (!vm.initialized) {
+            vm.list = Episode.list();
           }
-
-          vm.list = Episode.list();
           vm.sortBy = m.prop(m.route.param('sort_by') || 'hearts');
           vm.sortOrder = m.prop(m.route.param('sort_order') || 'desc');
           vm.filterWith = m.prop(m.route.param('filter_with') || 'all');
