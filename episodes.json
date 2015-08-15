@@ -1,5 +1,12 @@
 [
   {
+    "url": "https://gorails.com/episodes/using-purchased-themes?autoplay=1",
+    "title": "Using Purchased Themes with Rails",
+    "hearts": 9,
+    "is_pro": true,
+    "sequential_id": 83
+  },
+  {
     "url": "https://gorails.com/episodes/usability-and-video-autoplay?autoplay=1",
     "title": "Usability And Video Autoplay With Wistia",
     "hearts": 2,
@@ -16,7 +23,7 @@
   {
     "url": "https://gorails.com/episodes/redirect-to-current-page-after-login?autoplay=1",
     "title": "Redirect To Current Page After Login",
-    "hearts": 3,
+    "hearts": 4,
     "is_pro": true,
     "sequential_id": 80
   },
@@ -170,21 +177,21 @@
   {
     "url": "https://gorails.com/episodes/clean-javascript-with-data-behavior?autoplay=1",
     "title": "Clean Javascript Code Using Data-Behavior On The Frontend",
-    "hearts": 3,
+    "hearts": 4,
     "is_pro": true,
     "sequential_id": 58
   },
   {
     "url": "https://gorails.com/episodes/including-third-party-javascript-libraries-with-rails?autoplay=1",
     "title": "Including Javascript and CSS Libraries With Rails",
-    "hearts": 3,
+    "hearts": 4,
     "is_pro": false,
     "sequential_id": 57
   },
   {
     "url": "https://gorails.com/episodes/refactoring-jquery-code-with-objects?autoplay=1",
     "title": "Refactoring Your jQuery Code with Objects in Coffeescript",
-    "hearts": 4,
+    "hearts": 5,
     "is_pro": true,
     "sequential_id": 56
   },
@@ -324,7 +331,7 @@
   {
     "url": "https://gorails.com/episodes/comments-with-polymorphic-associations?autoplay=1",
     "title": "Comments With Polymorphic Associations",
-    "hearts": 8,
+    "hearts": 9,
     "is_pro": false,
     "sequential_id": 36
   },
@@ -408,7 +415,7 @@
   {
     "url": "https://gorails.com/episodes/liking-posts?autoplay=1",
     "title": "Liking Posts",
-    "hearts": 38,
+    "hearts": 37,
     "is_pro": true,
     "sequential_id": 24
   },
@@ -457,14 +464,14 @@
   {
     "url": "https://gorails.com/episodes/jquery-ujs-and-ajax?autoplay=1",
     "title": "jQuery UJS and AJAX",
-    "hearts": 10,
+    "hearts": 11,
     "is_pro": false,
     "sequential_id": 17
   },
   {
     "url": "https://gorails.com/episodes/button-loading-animations-with-jquery-ujs?autoplay=1",
     "title": "Button Loading Animations with jQuery UJS",
-    "hearts": 10,
+    "hearts": 11,
     "is_pro": false,
     "sequential_id": 16
   },
