@@ -1,29 +1,43 @@
 [
   {
+    "url": "https://gorails.com/episodes/state-machine-gem?autoplay=1",
+    "title": "The State_Machine Gem",
+    "hearts": 6,
+    "is_pro": false,
+    "sequential_id": 85
+  },
+  {
+    "url": "https://gorails.com/episodes/what-is-a-state-machine?autoplay=1",
+    "title": "What Is A State Machine?",
+    "hearts": 1,
+    "is_pro": false,
+    "sequential_id": 84
+  },
+  {
     "url": "https://gorails.com/episodes/using-purchased-themes?autoplay=1",
     "title": "Using Purchased Themes with Rails",
-    "hearts": 9,
+    "hearts": 12,
     "is_pro": true,
     "sequential_id": 83
   },
   {
     "url": "https://gorails.com/episodes/usability-and-video-autoplay?autoplay=1",
     "title": "Usability And Video Autoplay With Wistia",
-    "hearts": 2,
+    "hearts": 3,
     "is_pro": true,
     "sequential_id": 82
   },
   {
     "url": "https://gorails.com/episodes/vlog-day-16?autoplay=1",
     "title": "Open Source Vlog - Writing Rspec Tests",
-    "hearts": 1,
+    "hearts": 2,
     "is_pro": false,
     "sequential_id": 81
   },
   {
     "url": "https://gorails.com/episodes/redirect-to-current-page-after-login?autoplay=1",
     "title": "Redirect To Current Page After Login",
-    "hearts": 4,
+    "hearts": 5,
     "is_pro": true,
     "sequential_id": 80
   },
@@ -37,7 +51,7 @@
   {
     "url": "https://gorails.com/episodes/at-mentions?autoplay=1",
     "title": "@Mentions, Autocomplete, Notifications, and Links",
-    "hearts": 11,
+    "hearts": 13,
     "is_pro": true,
     "sequential_id": 78
   },
@@ -58,7 +72,7 @@
   {
     "url": "https://gorails.com/episodes/rails-5-actioncable-websockets?autoplay=1",
     "title": "Rails 5's ActionCable and Websockets Introduction",
-    "hearts": 13,
+    "hearts": 16,
     "is_pro": false,
     "sequential_id": 75
   },
@@ -86,14 +100,14 @@
   {
     "url": "https://gorails.com/episodes/rails-scopes?autoplay=1",
     "title": "Pair Programming on Rails Scopes",
-    "hearts": 5,
+    "hearts": 6,
     "is_pro": false,
     "sequential_id": 71
   },
   {
     "url": "https://gorails.com/episodes/activity-feed-from-scratch?autoplay=1",
     "title": "Activity Feed From Scratch",
-    "hearts": 11,
+    "hearts": 13,
     "is_pro": true,
     "sequential_id": 70
   },
@@ -142,21 +156,21 @@
   {
     "url": "https://gorails.com/episodes/vlog-day-2?autoplay=1",
     "title": "Open Source Vlog - Housekeeping and Merging Pull Requests",
-    "hearts": 1,
+    "hearts": 3,
     "is_pro": false,
     "sequential_id": 63
   },
   {
     "url": "https://gorails.com/episodes/vlog-day-1?autoplay=1",
     "title": "Open Source Vlog - Where Do We Even Start?",
-    "hearts": 2,
+    "hearts": 3,
     "is_pro": false,
     "sequential_id": 62
   },
   {
     "url": "https://gorails.com/episodes/rails-assets?autoplay=1",
     "title": "Manage Assets With Rails Assets",
-    "hearts": 6,
+    "hearts": 7,
     "is_pro": false,
     "sequential_id": 61
   },
@@ -177,7 +191,7 @@
   {
     "url": "https://gorails.com/episodes/clean-javascript-with-data-behavior?autoplay=1",
     "title": "Clean Javascript Code Using Data-Behavior On The Frontend",
-    "hearts": 4,
+    "hearts": 5,
     "is_pro": true,
     "sequential_id": 58
   },
@@ -219,7 +233,7 @@
   {
     "url": "https://gorails.com/episodes/refactoring-with-the-null-object-pattern?autoplay=1",
     "title": "Refactoring with the Null Object Pattern",
-    "hearts": 6,
+    "hearts": 7,
     "is_pro": true,
     "sequential_id": 52
   },
@@ -247,14 +261,14 @@
   {
     "url": "https://gorails.com/episodes/subdomains-and-multi-tenancy-from-scratch?autoplay=1",
     "title": "Handling Subdomains and Multitenancy From Scratch",
-    "hearts": 5,
+    "hearts": 6,
     "is_pro": true,
     "sequential_id": 48
   },
   {
     "url": "https://gorails.com/episodes/multitenancy-with-apartment?autoplay=1",
     "title": "Multitenancy with the Apartment gem",
-    "hearts": 6,
+    "hearts": 7,
     "is_pro": false,
     "sequential_id": 47
   },
@@ -317,7 +331,7 @@
   {
     "url": "https://gorails.com/episodes/upload-progress-with-refile-javascript?autoplay=1",
     "title": "Upload Progress with Refile Javascript",
-    "hearts": 9,
+    "hearts": 10,
     "is_pro": true,
     "sequential_id": 38
   },
