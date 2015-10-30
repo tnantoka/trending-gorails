@@ -1,22 +1,71 @@
 [
   {
+    "url": "https://gorails.com/episodes/contributing-to-open-source-fixing-a-bug-in-devise?autoplay=1",
+    "title": "Contributing To Open Source: Fixing A Bug In Devise",
+    "hearts": 12,
+    "is_pro": false,
+    "sequential_id": 92
+  },
+  {
+    "url": "https://gorails.com/episodes/stripe-update-card-cancel-and-resubscribe?autoplay=1",
+    "title": "Adding Stripe update card form, Cancel, and Resubscribe",
+    "hearts": 9,
+    "is_pro": true,
+    "sequential_id": 91
+  },
+  {
+    "url": "https://gorails.com/episodes/stripe?autoplay=1",
+    "title": "Subscriptions with Stripe",
+    "hearts": 21,
+    "is_pro": true,
+    "sequential_id": 90
+  },
+  {
+    "url": "https://gorails.com/episodes/elasticsearch-with-searckick?autoplay=1",
+    "title": "Advanced Search, Autocomplete and Suggestions with ElasticSearch and the Searckick gem",
+    "hearts": 16,
+    "is_pro": true,
+    "sequential_id": 89
+  },
+  {
+    "url": "https://gorails.com/episodes/bootstrap-4-rubygem?autoplay=1",
+    "title": "Using Bootstrap 4 Rubygem with Rails",
+    "hearts": 11,
+    "is_pro": false,
+    "sequential_id": 88
+  },
+  {
+    "url": "https://gorails.com/episodes/cron-jobs-with-whenever-gem?autoplay=1",
+    "title": "Scheduled Cron Jobs with the Whenever Gem",
+    "hearts": 9,
+    "is_pro": true,
+    "sequential_id": 87
+  },
+  {
+    "url": "https://gorails.com/episodes/scheduling-posts?autoplay=1",
+    "title": "Scheduling Posts",
+    "hearts": 10,
+    "is_pro": true,
+    "sequential_id": 86
+  },
+  {
     "url": "https://gorails.com/episodes/state-machine-gem?autoplay=1",
     "title": "The State_Machine Gem",
-    "hearts": 6,
+    "hearts": 17,
     "is_pro": false,
     "sequential_id": 85
   },
   {
     "url": "https://gorails.com/episodes/what-is-a-state-machine?autoplay=1",
     "title": "What Is A State Machine?",
-    "hearts": 1,
+    "hearts": 7,
     "is_pro": false,
     "sequential_id": 84
   },
   {
     "url": "https://gorails.com/episodes/using-purchased-themes?autoplay=1",
     "title": "Using Purchased Themes with Rails",
-    "hearts": 12,
+    "hearts": 17,
     "is_pro": true,
     "sequential_id": 83
   },
@@ -30,14 +79,14 @@
   {
     "url": "https://gorails.com/episodes/vlog-day-16?autoplay=1",
     "title": "Open Source Vlog - Writing Rspec Tests",
-    "hearts": 2,
+    "hearts": 3,
     "is_pro": false,
     "sequential_id": 81
   },
   {
     "url": "https://gorails.com/episodes/redirect-to-current-page-after-login?autoplay=1",
     "title": "Redirect To Current Page After Login",
-    "hearts": 5,
+    "hearts": 7,
     "is_pro": true,
     "sequential_id": 80
   },
@@ -51,14 +100,14 @@
   {
     "url": "https://gorails.com/episodes/at-mentions?autoplay=1",
     "title": "@Mentions, Autocomplete, Notifications, and Links",
-    "hearts": 13,
+    "hearts": 17,
     "is_pro": true,
     "sequential_id": 78
   },
   {
     "url": "https://gorails.com/episodes/vlog-day-13?autoplay=1",
     "title": "Open Source Vlog - Rails Generators",
-    "hearts": 1,
+    "hearts": 2,
     "is_pro": false,
     "sequential_id": 77
   },
@@ -72,7 +121,7 @@
   {
     "url": "https://gorails.com/episodes/rails-5-actioncable-websockets?autoplay=1",
     "title": "Rails 5's ActionCable and Websockets Introduction",
-    "hearts": 16,
+    "hearts": 20,
     "is_pro": false,
     "sequential_id": 75
   },
@@ -86,7 +135,7 @@
   {
     "url": "https://gorails.com/episodes/vlog-rails-engines?autoplay=1",
     "title": "Open Source Vlog - Simple And Clean RubyGem With Rails Engines",
-    "hearts": 1,
+    "hearts": 3,
     "is_pro": false,
     "sequential_id": 73
   },
@@ -100,42 +149,42 @@
   {
     "url": "https://gorails.com/episodes/rails-scopes?autoplay=1",
     "title": "Pair Programming on Rails Scopes",
-    "hearts": 6,
+    "hearts": 8,
     "is_pro": false,
     "sequential_id": 71
   },
   {
     "url": "https://gorails.com/episodes/activity-feed-from-scratch?autoplay=1",
     "title": "Activity Feed From Scratch",
-    "hearts": 13,
+    "hearts": 18,
     "is_pro": true,
     "sequential_id": 70
   },
   {
     "url": "https://gorails.com/episodes/vlog-day-8?autoplay=1",
     "title": "Open Source Vlog - Filtering Events",
-    "hearts": 1,
+    "hearts": 2,
     "is_pro": false,
     "sequential_id": 69
   },
   {
     "url": "https://gorails.com/episodes/vlog-day-7?autoplay=1",
     "title": "Open Source Vlog - Refactoring Our Calendar",
-    "hearts": 1,
+    "hearts": 2,
     "is_pro": false,
     "sequential_id": 68
   },
   {
     "url": "https://gorails.com/episodes/vlog-day-6?autoplay=1",
     "title": "Open Source Vlog - Building A Calendar From Scratch",
-    "hearts": 3,
+    "hearts": 5,
     "is_pro": false,
     "sequential_id": 67
   },
   {
     "url": "https://gorails.com/episodes/vlog-day-5?autoplay=1",
     "title": "Open Source Vlog - Just Deleting Things",
-    "hearts": 1,
+    "hearts": 2,
     "is_pro": false,
     "sequential_id": 66
   },
@@ -149,35 +198,35 @@
   {
     "url": "https://gorails.com/episodes/vlog-day-3-rspec?autoplay=1",
     "title": "Open Source Vlog - Setting Up Rspec",
-    "hearts": 0,
+    "hearts": 1,
     "is_pro": false,
     "sequential_id": 64
   },
   {
     "url": "https://gorails.com/episodes/vlog-day-2?autoplay=1",
     "title": "Open Source Vlog - Housekeeping and Merging Pull Requests",
-    "hearts": 3,
+    "hearts": 4,
     "is_pro": false,
     "sequential_id": 63
   },
   {
     "url": "https://gorails.com/episodes/vlog-day-1?autoplay=1",
     "title": "Open Source Vlog - Where Do We Even Start?",
-    "hearts": 3,
+    "hearts": 4,
     "is_pro": false,
     "sequential_id": 62
   },
   {
     "url": "https://gorails.com/episodes/rails-assets?autoplay=1",
     "title": "Manage Assets With Rails Assets",
-    "hearts": 7,
+    "hearts": 9,
     "is_pro": false,
     "sequential_id": 61
   },
   {
     "url": "https://gorails.com/episodes/basic-auth-and-rss-feeds?autoplay=1",
     "title": "Basic Authentication and RSS Feeds",
-    "hearts": 0,
+    "hearts": 1,
     "is_pro": true,
     "sequential_id": 60
   },
@@ -191,35 +240,35 @@
   {
     "url": "https://gorails.com/episodes/clean-javascript-with-data-behavior?autoplay=1",
     "title": "Clean Javascript Code Using Data-Behavior On The Frontend",
-    "hearts": 5,
+    "hearts": 7,
     "is_pro": true,
     "sequential_id": 58
   },
   {
     "url": "https://gorails.com/episodes/including-third-party-javascript-libraries-with-rails?autoplay=1",
     "title": "Including Javascript and CSS Libraries With Rails",
-    "hearts": 4,
+    "hearts": 6,
     "is_pro": false,
     "sequential_id": 57
   },
   {
     "url": "https://gorails.com/episodes/refactoring-jquery-code-with-objects?autoplay=1",
     "title": "Refactoring Your jQuery Code with Objects in Coffeescript",
-    "hearts": 5,
+    "hearts": 9,
     "is_pro": true,
     "sequential_id": 56
   },
   {
     "url": "https://gorails.com/episodes/my-development-environment-for-ruby-on-rails?autoplay=1",
     "title": "My Development Environment",
-    "hearts": 2,
+    "hearts": 4,
     "is_pro": false,
     "sequential_id": 55
   },
   {
     "url": "https://gorails.com/episodes/debugging-rails-performance-problems-in-views?autoplay=1",
     "title": "Debugging Performance Problems In Your Views",
-    "hearts": 1,
+    "hearts": 2,
     "is_pro": true,
     "sequential_id": 54
   },
@@ -233,7 +282,7 @@
   {
     "url": "https://gorails.com/episodes/refactoring-with-the-null-object-pattern?autoplay=1",
     "title": "Refactoring with the Null Object Pattern",
-    "hearts": 7,
+    "hearts": 10,
     "is_pro": true,
     "sequential_id": 52
   },
@@ -254,63 +303,63 @@
   {
     "url": "https://gorails.com/episodes/newsletter-sign-up?autoplay=1",
     "title": "Newsletter Sign Up Form with country_select",
-    "hearts": 1,
+    "hearts": 2,
     "is_pro": false,
     "sequential_id": 49
   },
   {
     "url": "https://gorails.com/episodes/subdomains-and-multi-tenancy-from-scratch?autoplay=1",
     "title": "Handling Subdomains and Multitenancy From Scratch",
-    "hearts": 6,
+    "hearts": 8,
     "is_pro": true,
     "sequential_id": 48
   },
   {
     "url": "https://gorails.com/episodes/multitenancy-with-apartment?autoplay=1",
     "title": "Multitenancy with the Apartment gem",
-    "hearts": 7,
+    "hearts": 8,
     "is_pro": false,
     "sequential_id": 47
   },
   {
     "url": "https://gorails.com/episodes/refactoring-csv-uploads-with-activemodel-model?autoplay=1",
     "title": "Refactoring CSV Uploads with ActiveModel::Model",
-    "hearts": 0,
+    "hearts": 2,
     "is_pro": true,
     "sequential_id": 46
   },
   {
     "url": "https://gorails.com/episodes/export-to-csv?autoplay=1",
     "title": "Exporting Records To CSV",
-    "hearts": 0,
+    "hearts": 1,
     "is_pro": false,
     "sequential_id": 45
   },
   {
     "url": "https://gorails.com/episodes/upload-csv-form?autoplay=1",
     "title": "CSV Upload Form to Import Records",
-    "hearts": 1,
+    "hearts": 2,
     "is_pro": true,
     "sequential_id": 44
   },
   {
     "url": "https://gorails.com/episodes/intro-to-importing-from-csv?autoplay=1",
     "title": "Introduction to Importing from CSV",
-    "hearts": 4,
+    "hearts": 6,
     "is_pro": false,
     "sequential_id": 43
   },
   {
     "url": "https://gorails.com/episodes/concerns-making-soft-deletable-module?autoplay=1",
     "title": "Concerns: Making a Soft Deletable module",
-    "hearts": 0,
+    "hearts": 4,
     "is_pro": true,
     "sequential_id": 42
   },
   {
     "url": "https://gorails.com/episodes/soft-delete-with-paranoia?autoplay=1",
     "title": "Soft Delete with Paranoia",
-    "hearts": 4,
+    "hearts": 5,
     "is_pro": false,
     "sequential_id": 41
   },
@@ -324,112 +373,112 @@
   {
     "url": "https://gorails.com/episodes/refactoring-controller-methods?autoplay=1",
     "title": "Refactoring Controller Methods",
-    "hearts": 1,
+    "hearts": 3,
     "is_pro": false,
     "sequential_id": 39
   },
   {
     "url": "https://gorails.com/episodes/upload-progress-with-refile-javascript?autoplay=1",
     "title": "Upload Progress with Refile Javascript",
-    "hearts": 10,
+    "hearts": 14,
     "is_pro": true,
     "sequential_id": 38
   },
   {
     "url": "https://gorails.com/episodes/file-uploads-with-refile?autoplay=1",
     "title": "File Uploads with Refile",
-    "hearts": 16,
+    "hearts": 19,
     "is_pro": false,
     "sequential_id": 37
   },
   {
     "url": "https://gorails.com/episodes/comments-with-polymorphic-associations?autoplay=1",
     "title": "Comments With Polymorphic Associations",
-    "hearts": 9,
+    "hearts": 11,
     "is_pro": false,
     "sequential_id": 36
   },
   {
     "url": "https://gorails.com/episodes/api-tokens-with-devise-token-authenticatable?autoplay=1",
     "title": "API Tokens with Devise Token Authenticatable",
-    "hearts": 5,
+    "hearts": 6,
     "is_pro": true,
     "sequential_id": 35
   },
   {
     "url": "https://gorails.com/episodes/forms-with-multiple-submit-buttons?autoplay=1",
     "title": "Forms With Multiple Submit Buttons",
-    "hearts": 6,
+    "hearts": 7,
     "is_pro": false,
     "sequential_id": 34
   },
   {
     "url": "https://gorails.com/episodes/omniauth-twitter-sign-in?autoplay=1",
     "title": "Sign In With Twitter using Omniauth and the Twitter gem",
-    "hearts": 4,
+    "hearts": 7,
     "is_pro": false,
     "sequential_id": 33
   },
   {
     "url": "https://gorails.com/episodes/markdown-emoji-with-html-pipeline-gem?autoplay=1",
     "title": "Markdown and Emoji with the html-pipeline gem",
-    "hearts": 10,
+    "hearts": 11,
     "is_pro": true,
     "sequential_id": 32
   },
   {
     "url": "https://gorails.com/episodes/forum-time-zones-with-local_time?autoplay=1",
     "title": "Forum Series Part 7: Time Zones using the local_time Gem",
-    "hearts": 7,
+    "hearts": 8,
     "is_pro": false,
     "sequential_id": 31
   },
   {
     "url": "https://gorails.com/episodes/forum-search-with-ransack?autoplay=1",
     "title": "Forum Series Part 6: Search with Ransack",
-    "hearts": 5,
+    "hearts": 8,
     "is_pro": true,
     "sequential_id": 30
   },
   {
     "url": "https://gorails.com/episodes/forum-notification-emails-and-previews?autoplay=1",
     "title": "Forum Series Part 5: Email Notifications with Rails 4.2, deliver_later, and Previews",
-    "hearts": 8,
+    "hearts": 11,
     "is_pro": false,
     "sequential_id": 29
   },
   {
     "url": "https://gorails.com/episodes/forum-div_for?autoplay=1",
     "title": "Forum Series Part 4: div_for",
-    "hearts": 3,
+    "hearts": 4,
     "is_pro": true,
     "sequential_id": 28
   },
   {
     "url": "https://gorails.com/episodes/forum-nested-attributes-and-fields-for?autoplay=1",
     "title": "Forum Series Part 3: Nested Attributes and fields_for",
-    "hearts": 3,
+    "hearts": 7,
     "is_pro": false,
     "sequential_id": 27
   },
   {
     "url": "https://gorails.com/episodes/forum-routes?autoplay=1",
     "title": "Forum Series Part 2: Routes",
-    "hearts": 6,
+    "hearts": 7,
     "is_pro": true,
     "sequential_id": 26
   },
   {
     "url": "https://gorails.com/episodes/forum-architecture?autoplay=1",
     "title": "Forum Series Part 1: Architecture",
-    "hearts": 12,
+    "hearts": 13,
     "is_pro": false,
     "sequential_id": 25
   },
   {
     "url": "https://gorails.com/episodes/liking-posts?autoplay=1",
     "title": "Liking Posts",
-    "hearts": 37,
+    "hearts": 43,
     "is_pro": true,
     "sequential_id": 24
   },
@@ -443,14 +492,14 @@
   {
     "url": "https://gorails.com/episodes/authorization-with-pundit?autoplay=1",
     "title": "Authorization with Pundit",
-    "hearts": 10,
+    "hearts": 14,
     "is_pro": true,
     "sequential_id": 22
   },
   {
     "url": "https://gorails.com/episodes/rails-4-2-introduction?autoplay=1",
     "title": "Rails 4.2 Introduction",
-    "hearts": 4,
+    "hearts": 5,
     "is_pro": false,
     "sequential_id": 21
   },
@@ -464,7 +513,7 @@
   {
     "url": "https://gorails.com/episodes/a-look-into-routing?autoplay=1",
     "title": "A Look Into Routing",
-    "hearts": 7,
+    "hearts": 8,
     "is_pro": false,
     "sequential_id": 19
   },
@@ -478,21 +527,21 @@
   {
     "url": "https://gorails.com/episodes/jquery-ujs-and-ajax?autoplay=1",
     "title": "jQuery UJS and AJAX",
-    "hearts": 11,
+    "hearts": 13,
     "is_pro": false,
     "sequential_id": 17
   },
   {
     "url": "https://gorails.com/episodes/button-loading-animations-with-jquery-ujs?autoplay=1",
     "title": "Button Loading Animations with jQuery UJS",
-    "hearts": 11,
+    "hearts": 12,
     "is_pro": false,
     "sequential_id": 16
   },
   {
     "url": "https://gorails.com/episodes/understanding-semantic-versioning?autoplay=1",
     "title": "Understanding Semantic Versioning",
-    "hearts": 0,
+    "hearts": 1,
     "is_pro": false,
     "sequential_id": 15
   },
@@ -513,14 +562,14 @@
   {
     "url": "https://gorails.com/episodes/user-authentication-with-devise?autoplay=1",
     "title": "User Authentication with Devise",
-    "hearts": 6,
+    "hearts": 8,
     "is_pro": false,
     "sequential_id": 12
   },
   {
     "url": "https://gorails.com/episodes/file-uploading-with-carrierwave?autoplay=1",
     "title": "File Uploading with Carrierwave",
-    "hearts": 2,
+    "hearts": 6,
     "is_pro": false,
     "sequential_id": 11
   },
@@ -534,7 +583,7 @@
   {
     "url": "https://gorails.com/episodes/pretty-urls-with-friendly-id?autoplay=1",
     "title": "Pretty urls with FriendlyID",
-    "hearts": 4,
+    "hearts": 5,
     "is_pro": false,
     "sequential_id": 9
   },
@@ -562,21 +611,21 @@
   {
     "url": "https://gorails.com/episodes/sending-data-between-controllers-and-views?autoplay=1",
     "title": "Sending Data Between Controllers And Views",
-    "hearts": 5,
+    "hearts": 8,
     "is_pro": false,
     "sequential_id": 5
   },
   {
     "url": "https://gorails.com/episodes/the-params-hash?autoplay=1",
     "title": "The Params Hash",
-    "hearts": 5,
+    "hearts": 7,
     "is_pro": false,
     "sequential_id": 4
   },
   {
     "url": "https://gorails.com/episodes/rails-application-structure?autoplay=1",
     "title": "Rails Application Structure",
-    "hearts": 4,
+    "hearts": 6,
     "is_pro": false,
     "sequential_id": 3
   },
@@ -590,7 +639,7 @@
   {
     "url": "https://gorails.com/episodes/environment-variables?autoplay=1",
     "title": "Environment Variables",
-    "hearts": 5,
+    "hearts": 8,
     "is_pro": false,
     "sequential_id": 1
   }
